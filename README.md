@@ -1,4 +1,4 @@
-Hola soy, <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"> Jairo Sánchez, Desarrollador Web. 
+<div align="center">Hola soy, <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"> Jairo Sánchez, Desarrollador Web.</div>
 
 
 <div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/></div>
