@@ -3,7 +3,7 @@
 <div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/></div>
 
 
-<div align="center">Donde me puedes encontrar</div>
+<div align="center">Donde me puedes encontrar:</div>
 
 
 * :earth_africa: Portafolios **[Portafolios](https://jairosanchez.es/)**
