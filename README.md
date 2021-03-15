@@ -1,7 +1,7 @@
 Hola soy, <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25px"> Jairo Sánchez, Desarrollador Web. 
 
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<div align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/></div>
 
 
 ### Donde me puedes encontrar
