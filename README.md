@@ -1,6 +1,6 @@
 <h2> Buenas, Soy Jairo Sánchez <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"></h2>
 
-<img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="230">
 
 
 <div align="center">Donde me puedes encontrar:</div>
@@ -14,13 +14,15 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/jairosanchezb94?label=follow&style=social)](https://github.com/jairosanchezb94)
 
 
-### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="50"> Conocimientos  
+### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Conocimientos  
 
 ```javascript
 const thai = {
   pronouns: "the" | "el",
   code: [Javascript, Typescript, HTML, CSS, PHP, Angular, Ionic, Java],
   tools: [Node, Visual Studio, MySQL],
+  
+  
 }
 ```
 
