@@ -23,9 +23,13 @@
 const thai = {
   pronouns: "the" | "el",
   code: [Javascript, Typescript, HTML, CSS, PHP, Angular, Ionic, Java],
-  tools: [Node, Visual Studio, MySQL],
-  
-  
+  tools: [Node, Visual Studio, MySQL, Git, Xampp],
+        pleasures: {
+                        music: "House, EDM, Dance, Techno, Pop, Reggaeton",
+                        travel: "Italy",
+                        work: "Developer"
+                      },
+challenge: "Mejorar y aprender, junto a viajar por el mundo."
 }
 ```
 
