@@ -28,7 +28,7 @@ const jsanchez = {
                         music: "House, EDM, Dance, Techno, Pop, Reggaeton",
                         travel: "Italy",
                         work: "Developer",
-                        idioms: "Spain", "English", "Italian"
+                        idioms: "Spanish", "English", "Italian"
                       },
 challenge: "Mejorar y aprender, junto a viajar por el mundo."
 }
