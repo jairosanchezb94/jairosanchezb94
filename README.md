@@ -1,6 +1,6 @@
 <h2> Buenas, Soy Jairo Sánchez <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"></h2>
 
-<img align='right' src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="215">
 
 
 <div align="center">Donde me puedes encontrar:</div>
