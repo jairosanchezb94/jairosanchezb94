@@ -14,7 +14,7 @@
 
 
 [![Linkedin: JairoSánchez](https://img.shields.io/badge/-jairosanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)](https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/jairosanchezb94?label=follow&style=social)](https://github.com/jairosanchezb94)
+[![GitHub Jairosanchezb94](https://img.shields.io/github/followers/jairosanchezb94?label=follow&style=social)](https://github.com/jairosanchezb94)
 
 
 ### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Conocimientos  
