@@ -20,7 +20,7 @@
 ### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Conocimientos  
 
 ```javascript
-const thai = {
+const jsanchez = {
   pronouns: "the" | "el",
   code: [Javascript, Typescript, HTML, CSS, PHP, Angular, Ionic, Java],
   tools: [Node, Visual Studio, MySQL, Git, Xampp],
