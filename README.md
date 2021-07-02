@@ -22,7 +22,7 @@
 ```javascript
 const jsanchez = {
   pronouns: "he" | "el",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Angular, Ionic, Java],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Angular, React, Ionic, Java],
   tools: [Node, Visual Studio, MySQL, Git, Xampp],
         pleasures: {
                         music: "House, EDM, Dance, Techno, Pop, Reggaeton",
