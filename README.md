@@ -38,7 +38,7 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 
 ### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairosanchezb94&hide=contribs,prs&show_icons=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosanchezb94&layout=compact)
 
