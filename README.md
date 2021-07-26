@@ -42,8 +42,6 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosanchezb94&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jairosanchezb94)](https://github.com/SrGobi/github-readme-stats)
-
 ---
 
 ⭐️ From [@jairosanchezb94](https://github.com/jairosanchezb94)
