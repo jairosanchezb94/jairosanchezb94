@@ -4,9 +4,8 @@
 
 ---
 
-<div align="center">Donde me puedes encontrar:</div>
+<div>Donde me puedes encontrar:</div>
 
-<div align="center">
 :earth_africa: Portafolios **[Portafolios](https://jairosanchezb94.github.io/Portafolio-2/)**
 
 :book: Facebook **[Facebook](https://www.facebook.com/jairosanh)**
@@ -17,7 +16,7 @@
 [![Linkedin: JairoSánchez](https://img.shields.io/badge/-jairosanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)](https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)
 [![GitHub Jairosanchezb94](https://img.shields.io/github/followers/jairosanchezb94?label=follow&style=social)](https://github.com/jairosanchezb94)
 
-</div>
+
 
 ### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Conocimientos  
 
