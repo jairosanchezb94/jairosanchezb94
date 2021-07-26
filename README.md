@@ -42,6 +42,8 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairosanchezb94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jairosanchezb94&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ⭐️ From [@jairosanchezb94](https://github.com/jairosanchezb94)
