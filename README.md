@@ -5,6 +5,7 @@
 ---
 
 <div>Donde me puedes encontrar:</div>
+<br>
 
 :earth_africa: Portafolios **[Portafolios](https://jairosanchezb94.github.io/Portafolio-2/)**
 
