@@ -44,4 +44,18 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 
 ---
 
+<a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosanchezb94&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/iampawan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
+<a href="https://github.com/iampawan/FlutterExampleApps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jairosanchezb94&repo=FlutterExampleApps&theme=light" />
+
+</a>
+<a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jairosanchezb94&repo=VelocityX&theme=light" />
+</a>
+
 ⭐️ From [@jairosanchezb94](https://github.com/jairosanchezb94)
