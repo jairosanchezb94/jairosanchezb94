@@ -38,9 +38,10 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 
 ### Github Stats
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/jairosanchezb94">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosanchezb94&theme=light&hide_langs_below=1" />
 </a>
+<br>
 <a href="https://github.com/iampawan">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
