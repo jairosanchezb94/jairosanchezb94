@@ -23,7 +23,7 @@
 
 ```javascript
 const jsanchez = {
-  pronouns: "he" | "el",
+  pronouns: "he" | "él",
   code: [Javascript, Typescript, HTML, CSS, PHP, Angular, React, Ionic, Java],
   tools: [Node, Visual Studio, MySQL, Git, Xampp],
         pleasures: {
