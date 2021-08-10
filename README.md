@@ -51,6 +51,6 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 ---
 
 #### 🎧 Give it and listen | Spotify Playing
-[<img src="https://open.spotify.com/playlist/2xDD5uwLYKNQ6eUBnPRMvm?si=ec7b909b34b54d9d" alt="jairosanchez spotify playing" width="500" />]()
+[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="jairosanchez spotify playing" width="500" />]()
 
 ⭐️ From [@jairosanchezb94](https://github.com/jairosanchezb94)
