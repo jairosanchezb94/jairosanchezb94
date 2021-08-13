@@ -6,7 +6,7 @@
 <div>Donde me puedes encontrar:</div>
 <br>
 
-:earth_africa:**[Portafolio](https://stoic-albattani-ba8312.netlify.app/)**
+<img src="/img/portafolio.png"> **[Portafolio](https://stoic-albattani-ba8312.netlify.app/)**
 
 :book:**[Facebook](https://www.facebook.com/jairosanh)**
 
