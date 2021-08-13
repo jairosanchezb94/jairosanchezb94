@@ -6,7 +6,7 @@
 <div>Donde me puedes encontrar:</div>
 <br>
 
-<img src="/img/portafolio.png" width="50" height="50"> **[Portafolio](https://stoic-albattani-ba8312.netlify.app/)**
+<img src="/img/portafolio.png" width="25" height="25"> **[Portafolio](https://stoic-albattani-ba8312.netlify.app/)**
 
 :book:**[Facebook](https://www.facebook.com/jairosanh)**
 
