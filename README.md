@@ -8,9 +8,9 @@
 
 <img src="/img/portafolio.png" width="25" height="25"> **[Portafolio](https://stoic-albattani-ba8312.netlify.app/)**
 
-:book:**[Facebook](https://www.facebook.com/jairosanh)**
+<img src="/img/facebook.png" width="25" height="25"> **[Facebook](https://www.facebook.com/jairosanh)**
 
-:blue_heart:**[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
+<img src="/img/linkedin.png" width="25" height="25"> **[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
 
 
 [![Linkedin: JairoSánchez](https://img.shields.io/badge/-jairosanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)](https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)
