@@ -2,7 +2,6 @@
 
 <img align='right' src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="215">
 
----
 
 <div>Donde me puedes encontrar:</div>
 <br>
