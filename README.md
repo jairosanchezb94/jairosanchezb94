@@ -6,11 +6,11 @@
 <div>Donde me puedes encontrar:</div>
 <br>
 
-:earth_africa: Portafolios **[Portafolios](https://stoic-albattani-ba8312.netlify.app/)**
+:earth_africa:**[Portafolio](https://stoic-albattani-ba8312.netlify.app/)**
 
-:book: Facebook **[Facebook](https://www.facebook.com/jairosanh)**
+:book:**[Facebook](https://www.facebook.com/jairosanh)**
 
-:blue_heart: Linkedin **[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
+:blue_heart:**[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
 
 
 [![Linkedin: JairoSánchez](https://img.shields.io/badge/-jairosanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)](https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)
