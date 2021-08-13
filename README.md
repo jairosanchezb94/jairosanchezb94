@@ -54,7 +54,7 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 
 <h3 align="left">Now Playing:</h3>
 
-[![Spotify](https://spotify-bbdrb3679-jairosanchez1994.vercel.app/spotify)](https://open.spotify.com/playlist/2xDD5uwLYKNQ6eUBnPRMvm)
+[![Spotify](https://spotify-bbdrb3679-jairosanchez1994.vercel.app/spotify)](https://open.spotify.com/user/2xDD5uwLYKNQ6eUBnPRMvm)
 
 [<img src="/img/btn-spotify.png">](https://open.spotify.com/playlist/2xDD5uwLYKNQ6eUBnPRMvm)
 
