@@ -45,7 +45,7 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 </a>
 
 <a href="https://github.com/jairosanchezb94">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&theme=light&line_height=27" alt="Jairo Sanchez, github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&theme=heavy&line_height=27" alt="Jairo Sanchez, github stats"/>
 </a>
 
 ---
