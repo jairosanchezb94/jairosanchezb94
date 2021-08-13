@@ -54,6 +54,13 @@ challenge: "Mejorar y aprender, junto a viajar por el mundo."
 
 
 [<img src="/img/btn-spotify.png">](https://open.spotify.com/playlist/2xDD5uwLYKNQ6eUBnPRMvm)
-[<img src="https://jairosanchez1994.vercel.app/api/spotify" alt="jairosanchezb94 spotify playing" width="500" />](https://open.spotify.com/playlist/2xDD5uwLYKNQ6eUBnPRMvm)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://jairosanchez1994.vercel.app/api/spotify)](https://open.spotify.com/playlist/2xDD5uwLYKNQ6eUBnPRMvm)
+
+  </td>
+  <td width="50%">
 
 ⭐️ From [@jairosanchezb94](https://github.com/jairosanchezb94)
