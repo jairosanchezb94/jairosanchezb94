@@ -19,7 +19,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Conocimientos  
+### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Conocimientos <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> 
 
 ```javascript
 const jsanchez = {
