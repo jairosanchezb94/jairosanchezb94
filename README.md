@@ -6,7 +6,7 @@
 <div>Donde me puedes encontrar:</div>
 <br>
 
-:earth_africa: Portafolios **[Portafolios](https://jairosanchezb94.github.io/Portafolio-2/)**
+:earth_africa: Portafolios **[Portafolios](https://stoic-albattani-ba8312.netlify.app/)**
 
 :book: Facebook **[Facebook](https://www.facebook.com/jairosanh)**
 
