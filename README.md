@@ -22,17 +22,20 @@
 
 ```javascript
 const jsanchez = {
-  pronouns: "he" | "el",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Angular, React, Ionic, Java],
-  tools: [Node, Visual Studio, MySQL, Git, Xampp],
-        hobbies: {
-                        music: "House, EDM, Dance, Techno, Pop, Reggaeton",
-                        travel: "Italy",
-                        work: "Developer", "Designer",
-                        idioms: "Spanish", "English", "Italian"
-                      },
-challenge: "Mejorar y aprender, junto a viajar por el mundo."
-}
+		pronouns: "he" | "el",
+		code: [Javascript, Typescript, HTML, CSS, PHP, Angular, React, Ionic, Java],
+		tools: [Node, Visual Studio, MySQL, Git, Xampp],
+		hobbies: {
+			music: "House, EDM, Dance, Techno, Pop, Reggaeton",
+			travel: "Italy",
+			work: "Developer",
+			"Designer",
+			idioms: "Spanish",
+			"English",
+			"Italian"
+		},
+		challenge: "Mejorar y aprender, junto a viajar por el mundo."
+	}
 ```
 
 ---
