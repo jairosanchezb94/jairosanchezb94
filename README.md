@@ -25,7 +25,7 @@ const jsanchez = {
   pronouns: "he" | "el",
   code: [Javascript, Typescript, HTML, CSS, PHP, Angular, React, Ionic, Java],
   tools: [Node, Visual Studio, MySQL, Git, Xampp],
-        pleasures: {
+        hobbies: {
                         music: "House, EDM, Dance, Techno, Pop, Reggaeton",
                         travel: "Italy",
                         work: "Developer", "Designer",
