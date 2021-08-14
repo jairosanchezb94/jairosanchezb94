@@ -27,7 +27,7 @@ const jsanchez = {
 		tools: [Node, Visual Studio, MySQL, Git, Xampp],
 		hobbies: {
 			music: ["House", "EDM", "Dance", "Techno", "Pop", "Reggaeton"],
-			travel: ["Italy],
+			travel: ["Italy"],
 			work: ["Developer", "Designer"],
 			idioms: ["Spanish", "English", "Italian"]
 		},
