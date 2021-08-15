@@ -1,9 +1,9 @@
-<h2> Buenas, Soy Jairo Sánchez <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"></h2>
+<h2> Hello, I am Jairo Sánchez <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"></h2>
 
 <img align='right' src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="215">
 
 
-<div>Donde me puedes encontrar:</div>
+<div>Where you can finde me:</div>
 <br>
 
 <img src="/img/portafolio.png" width="15" height="15"> **[Portafolio](https://stoic-albattani-ba8312.netlify.app/)**
@@ -18,7 +18,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Conocimientos <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> 
+### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Knowledges <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> 
 
 ```javascript
 const jsanchez = {
@@ -29,9 +29,9 @@ const jsanchez = {
 			music: ["House", "EDM", "Dance", "Techno", "Pop", "Reggaeton"],
 			travel: ["Italy"],
 			work: ["Developer", "Designer"],
-			idioms: ["Spanish", "English", "Italian"]
+			languages: ["Spanish", "English", "Italian"]
 		},
-		challenge: "Mejorar y aprender, junto a viajar por el mundo.",
+		challenge: "Improve learn, and travel around the world",
 	};
 ```
 
