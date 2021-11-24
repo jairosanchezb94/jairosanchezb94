@@ -6,7 +6,7 @@
 <div>Where you can finde me:</div>
 <br>
 
-<img src="/img/portafolio.png" width="15" height="15"> **[Portafolio](https://jairosanchezb94.github.io/portfolio-web/)**
+<img src="/img/![portfolio](https://user-images.githubusercontent.com/32551746/143231910-fffaee66-61c5-4335-99fd-3fbdcc5e8abb.png)" width="15" height="15"> **[Portafolio](https://jairosanchezb94.github.io/portfolio-web/)**
 
 <img src="/img/linkedin.png" width="15" height="15"> **[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
 
