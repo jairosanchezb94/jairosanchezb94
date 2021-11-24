@@ -6,7 +6,7 @@
 <div>Where you can finde me:</div>
 <br>
 
-<img src="/img/portafolio.png" width="15" height="15"> **[Portafolio](https://stoic-albattani-ba8312.netlify.app/)**
+<img src="/img/portafolio.png" width="15" height="15"> **[Portafolio](https://jairosanchezb94.github.io/portfolio-web/)**
 
 <img src="/img/facebook.png" width="15" height="15"> **[Facebook](https://www.facebook.com/jairosanh)**
 
