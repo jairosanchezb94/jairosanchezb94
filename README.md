@@ -8,8 +8,6 @@
 
 <img src="/img/portafolio.png" width="15" height="15"> **[Portafolio](https://jairosanchezb94.github.io/portfolio-web/)**
 
-<img src="/img/facebook.png" width="15" height="15"> **[Facebook](https://www.facebook.com/jairosanh)**
-
 <img src="/img/linkedin.png" width="15" height="15"> **[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
 
 
