@@ -1,37 +1,29 @@
-<h2> Hello, I am Jairo Sánchez <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"></h2>
+<h1 align="center">Hi 👋, I'm Jairo Sánchez</h1>
+<h3 align="center">const jsanchez = { pronouns: "he" | "el", code: [Javascript, Typescript, HTML, CSS, PHP, Angular, React, Ionic, Java], tools: [Node, Visual Studio, MySQL, Git, Xampp], hobbies: { music: ["House", "EDM", "Dance", "Techno", "Pop", "Reggaeton"], travel: ["Italy"], work: ["Developer", "Designer"], languages: ["Spanish", "English", "Italian"] }, challenge: "Improve learn, and travel around the world", };</h3>
 
-<img align='right' src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="215">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jairosanchezb94&label=Profile%20views&color=0e75b6&style=flat" alt="jairosanchezb94" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairosanchezb94" alt="jairosanchezb94" /></a> </p>
 
-<div>Where you can finde me:</div>
-<br>
+- 👨‍💻 All of my projects are available at [https://jairosanchezb94.github.io/portfolio-web/](https://jairosanchezb94.github.io/portfolio-web/)
 
-<img src="/img/portafolio.png" width="15" height="15"> **[Portafolio](https://jairosanchezb94.github.io/portfolio-web/)**
+- 📝 I regularly write articles on [https://www.linkedin.com/in/jairo-sanchez-malaga/](https://www.linkedin.com/in/jairo-sanchez-malaga/)
 
-<img src="/img/linkedin.png" width="15" height="15"> **[Linkedin](https://www.linkedin.com/in/jairo-s%C3%A1nchez-64416a12b/)**
+- 📫 How to reach me **jairosanchezb5@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jairo-s%c3%a1nchez-64416a12b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jairo-s%c3%a1nchez-64416a12b/" height="30" width="40" /></a>
+</p>
 
-[![Linkedin: JairoSánchez](https://img.shields.io/badge/-jairosanchez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)](https://www.linkedin.com/in/jairo-s%C3%A1nchez-malaga/)
-[![GitHub Jairosanchezb94](https://img.shields.io/github/followers/jairosanchezb94?label=follow&style=social)](https://github.com/jairosanchezb94)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairosanchezb94&show_icons=true&locale=en&layout=compact" alt="jairosanchezb94" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&locale=en" alt="jairosanchezb94" /></p>
 
-### <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> Knowledges <img src="https://media.giphy.com/media/Pm9uJ1OHELY5WEMx4M/giphy.gif" width="25"> 
-
-```javascript
-const jsanchez = {
-		pronouns: "he" | "el",
-		code: [Javascript, Typescript, HTML, CSS, PHP, Angular, React, Ionic, Java],
-		tools: [Node, Visual Studio, MySQL, Git, Xampp],
-		hobbies: {
-			music: ["House", "EDM", "Dance", "Techno", "Pop", "Reggaeton"],
-			travel: ["Italy"],
-			work: ["Developer", "Designer"],
-			languages: ["Spanish", "English", "Italian"]
-		},
-		challenge: "Improve learn, and travel around the world",
-	};
-```
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairosanchezb94&" alt="jairosanchezb94" /></p>
 
 ---
 
