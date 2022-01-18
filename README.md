@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jairo Sánchez</h1>
-- 👨‍💻 All of my projects are available at https://jairosanchezb94.github.io/portfolio-web
+- 👨‍💻 Portafolio https://jairosanchezb94.github.io/portfolio-web
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/jairo-sanchez-malaga/](https://www.linkedin.com/in/jairo-sanchez-malaga/)
+- 📝 Linkedin [https://www.linkedin.com/in/jairo-sanchez-malaga/](https://www.linkedin.com/in/jairo-sanchez-malaga/)
 
 - 📫 How to reach me **jairosanchezb5@gmail.com**
 
