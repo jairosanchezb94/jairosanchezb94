@@ -17,16 +17,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&theme=dark&locale=en" alt="jairosanchezb94" /></p>
 
-### Github Stats
-
-<a href="https://github.com/jairosanchezb94">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jairosanchezb94&theme=dark&hide_langs_height=2" />
-</a>
-
-<a href="https://github.com/jairosanchezb94">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&theme=dark&line_height=27" alt="Jairo Sanchez, github stats"/>
-</a>
-
 ---
 
 #### 🎧 Give it and listen | Spotify Playing
