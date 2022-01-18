@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jairo-s%c3%a1nchez-64416a12b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jairo-s%c3%a1nchez-64416a12b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jairo-sanchez-malaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jairo-s%c3%a1nchez-64416a12b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
