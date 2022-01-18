@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jairo Sánchez</h1>
-<h3 align="center">const jsanchez = { pronouns: "he" | "el", code: [Javascript, Typescript, HTML, CSS, PHP, Angular, React, Ionic, Java], tools: [Node, Visual Studio, MySQL, Git, Xampp], hobbies: { music: ["House", "EDM", "Dance", "Techno", "Pop", "Reggaeton"], travel: ["Italy"], work: ["Developer", "Designer"], languages: ["Spanish", "English", "Italian"] }, challenge: "Improve learn, and travel around the world", };</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairosanchezb94&label=Profile%20views&color=0e75b6&style=flat" alt="jairosanchezb94" /> </p>
 
