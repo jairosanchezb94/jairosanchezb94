@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jairo Sánchez</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairosanchezb94&label=Profile%20views&color=0e75b6&style=flat" alt="jairosanchezb94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairosanchezb94" alt="jairosanchezb94" /></a> </p>
@@ -21,9 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairosanchezb94&show_icons=true&locale=en&layout=compact" alt="jairosanchezb94" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairosanchezb94&show_icons=true&locale=en" alt="jairosanchezb94" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairosanchezb94&" alt="jairosanchezb94" /></p>
-
 ---
 
 ### Github Stats
