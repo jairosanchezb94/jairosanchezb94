@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jairo Sánchez</h1>
-👨‍💻 Portafolio https://jairosanchezb94.github.io/portfolio-web
+👨‍💻 Portafolio https://jairosanchezb94.github.io/portafolio-js/
 
 📝 Linkedin [https://www.linkedin.com/in/jairo-sanchez-malaga/](https://www.linkedin.com/in/jairo-sanchez-malaga/)
 
