@@ -19,8 +19,4 @@
 
 ---
 
-#### 🎧 Give it and listen | Spotify Playing
-
-[<img src="/img/btn-spotify3.png">](https://open.spotify.com/playlist/2xDD5uwLYKNQ6eUBnPRMvm)
-
 ⭐️ From [@jairosanchezb94](https://github.com/jairosanchezb94)
