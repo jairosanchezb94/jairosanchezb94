@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jairo Sánchez</h1>
-<h3 align="center">A passionate Software Developer from Málaga, Spain</h3>
+<h3 align="center">A passionate Software Developer from Malaga, Spain</h3>
 
 <p align="center">
   <a href="https://jairosanchezb94.github.io/portafolio-js/" target="_blank">🌐 Portfolio</a> |
