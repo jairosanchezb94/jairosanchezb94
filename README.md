@@ -43,9 +43,6 @@
   <a href="https://www.linkedin.com/in/jairo-sanchez-malaga/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:jairosanchezb5@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Email" height="30" width="40" />
-  </a>
 </p>
 
 ---
